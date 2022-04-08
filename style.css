@@ -1,0 +1,16 @@
+.header {
+    background-color: #3E3C3C;
+    height: 72px;
+}
+
+.theme-color {
+    color: #F55800;
+}
+
+.dark-section {
+    background-color: #1C1A19;
+}
+
+.welcome-page-text {
+    padding-left: 4rem;
+}
